@@ -13,7 +13,7 @@ Please include a summary of the change
 
 # Work item and feature
 
-Jira or ADO
+AB#ID (AzureBoards ID synchronization with DevOps)
 
 # Checklist:
 
